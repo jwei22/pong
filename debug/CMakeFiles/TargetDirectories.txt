@@ -1,0 +1,3 @@
+/Users/jwei/Desktop/pong/debug/CMakeFiles/rebuild_cache.dir
+/Users/jwei/Desktop/pong/debug/CMakeFiles/edit_cache.dir
+/Users/jwei/Desktop/pong/debug/CMakeFiles/helloworld.dir
